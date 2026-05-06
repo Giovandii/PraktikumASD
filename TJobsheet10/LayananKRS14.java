@@ -6,7 +6,7 @@ public class LayananKRS14 {
     int size;
     int max;
     int totalDiproses = 0;
-    final int TARGET_DPA = 30; //tidak bisa diubah lagi isinya
+    int TARGET_DPA = 30;
 
     public LayananKRS14 (int max){
         this.max = max;
